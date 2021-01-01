@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "autoprefixer": "^10.1.0",
     "axios": "^0.21.1"
   },
   "name": "weather-app",

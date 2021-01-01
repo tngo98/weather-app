@@ -1,6 +1,5 @@
 import { geocode } from "./utils/geocode.js";
 import { forecast } from "./utils/forecast.js";
-import process from "process";
 
 const address = process.argv[2];
 if (!address) {
